@@ -1,6 +1,6 @@
 # measure-foot-by-RGBD-image
 
-자세한 내용은 pdf파일을 참고
+자세한 내용은 pdf파일을 참고(영상처리공학_1조_기말텀프로젝트결과보고서.pdf)
 
 1.data는 azure kinect SDK로 얻어온다.<br>
 2.python 파일의 main.py의 path를 수정하고 실행한다.<br>
